@@ -1,0 +1,14 @@
+{
+  "name": "react_shizhan_rumen_wangyi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files *.*"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
